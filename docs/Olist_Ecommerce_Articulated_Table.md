@@ -137,4 +137,3 @@ This should return 99,441 rows (one per order) with comprehensive aggregated met
 
 ---
 *End of Olist_Ecommerce_Articulated_Table.md*
-```
