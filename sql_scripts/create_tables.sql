@@ -1,3 +1,9 @@
+-- ============================================================================
+-- 📁 SQL Script: create_tables.sql
+-- 🔧 Purpose: Drop and recreate all necessary tables for the Olist E-commerce
+--            dataset using appropriate PostgreSQL data types.
+-- ============================================================================
+
 -- Table: category_translation
 DROP TABLE IF EXISTS category_translation;
 CREATE TABLE category_translation (
