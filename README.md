@@ -1,7 +1,6 @@
 # 🛒 Olist E-commerce SQL Project
 
-This project showcases a complete data cleaning, transformation, and aggregation pipeline using **PostgreSQL** and **Python** on the [Brazilian E-commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).  
-It culminates in a unified, analysis-ready table for further BI reporting and dashboarding.
+This project showcases a complete data cleaning, transformation, and aggregation pipeline using **PostgreSQL** and **Python** on the [Brazilian E-commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). It culminates in a unified, analysis-ready table for further BI reporting and dashboarding.
 
 ---
 
