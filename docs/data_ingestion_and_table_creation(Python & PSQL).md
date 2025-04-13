@@ -133,3 +133,4 @@ SELECT * FROM customers LIMIT 5;
 | Fixed encoding issues        | ✅ For `reviews.csv` |
 | Verified schemas and counts  | ✅ Spot checked in `psql` |
 
+---
