@@ -1,8 +1,6 @@
 -- ============================================================================
 -- 🧾 View: final_detailed_view
--- Description: Combines cleaned and aggregated data from orders, customers,
---              payments, reviews, products, and categories into a single
---              articulated table for reporting and dashboarding.
+--  Description: Combines cleaned and aggregated data from orders, customers, payments, reviews, products, and categories into a single articulated table for reporting and dashboarding.
 -- ============================================================================
 
 CREATE VIEW final_detailed_view AS
